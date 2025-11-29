@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+# mac files
+.DS_Store
+
+# Claude files
+.claude
+CLAUDE.md
+
